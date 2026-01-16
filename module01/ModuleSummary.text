@@ -1,0 +1,17 @@
+~ What I learn from this module01:
+    1. python environment setup
+    2. variable
+    3. opertors
+    4. conditional statement
+    5. while loop
+    6. for loop
+    7. input and output
+    8. typecasting
+    9. range library
+
+Homework:
+    -> take 3 numbers and show the largest/smallest numbers
+    -> sum of the array element
+    -> run a loop and show odd numbers between 1 to 200
+    -> grade calculator
+    -> float documentation
