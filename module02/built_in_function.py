@@ -1,0 +1,8 @@
+# highest = max(45, 98, 93, 92, 100)
+highest = max([45, 98, 93, 92, 100])
+lowest = min([45, 98, 93, 92, 100])
+total = sum([45, 98, 93, 92, 100])
+print(total)
+# print(lowest, ' < ', highest)
+sz = len([45, 98, 93, 92, 100])
+# print(sz)

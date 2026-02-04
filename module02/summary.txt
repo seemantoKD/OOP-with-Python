@@ -1,0 +1,6 @@
+~ What I learn from this module 02:
+    1. Why python powerfull (function.py, args.py, kargs,py) 
+    2. list methods
+    3. built in function
+    4. list comprehension
+    5. accessing file and run file from another file using import (basically call it module)
