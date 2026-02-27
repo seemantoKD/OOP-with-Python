@@ -1,0 +1,12 @@
+what i learn today??
+    i. string
+        - immutable
+        - concat
+    ii. tuple
+    iii. set
+    iv. dictionary
+    v. build in module
+    vi. exception handling
+    vii. file operation
+    viii. lambda function
+    ix. package install

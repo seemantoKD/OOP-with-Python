@@ -1,0 +1,10 @@
+# explore documentation for better learning about exception in python
+try:
+    # result = 45/0
+    result = 45/5
+except:
+    print('error happend')
+finally:
+    print('Finally here')
+
+print('Done')
